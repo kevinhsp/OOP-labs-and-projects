@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SquarePlanterTest()
+comment0.text=\r\n\ Creates\ a\ new\ TestSquarePlanter\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ let\ jeroo\ start\ with\ (1,1)\r\n\ with\ 5\ *\ 4\ flowers\r\n
+comment2.params=
+comment2.target=void\ testMyProgram1()
+comment2.text=\r\n\ test\ for\ 5\ per\ side,\ should\r\n\ have\ 20\ flowers\ with\ a\ 6*6\ square\r\n
+comment3.params=
+comment3.target=void\ testMyProgram2()
+comment3.text=\r\n\ test\ for\ 4\ per\ side,\ should\r\n\ have\ 16\ flowers\ with\ a\ 5*5\ square\r\n
+numComments=4

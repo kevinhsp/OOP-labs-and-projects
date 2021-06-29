@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JerooWithBuddy()
+comment0.text=\r\n\ And\ comment\ before\ each\ method/constructor\r\n
+comment1.params=
+comment1.target=void\ hopToWater()
+comment1.text=\r\n\ Remember\ to\ write\ proper\ comments\r\n
+comment2.params=buddy
+comment2.target=void\ hopWithBuddy(sofia.micro.jeroo.Jeroo)
+numComments=3

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SharkTest()
+comment0.text=\r\n\ Creates\ a\ new\ SharkTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testOceanConstructor()
+comment2.text=\r\n\ Test\ the\ second\ constructor\ for\ Ocean,\ that\ adds\ minnows\r\n\ and\ sharks.\r\n
+comment3.params=
+comment3.target=void\ testDistance1()
+comment3.text=\r\n\ Test\ distanceOf()\ for\ a\ straight\ horizontal\ distance.\r\n
+comment4.params=
+comment4.target=void\ testDistance2()
+comment4.text=\r\n\ Test\ distanceOf()\ for\ a\ diagonal\ distance.\r\n
+comment5.params=
+comment5.target=void\ testHH()
+comment5.text=\r\n\ test\ there\ are\ 3\ minnows\ and\ 1\ shark,\r\n\ check\ after\ act\ twice\ the\ stomach\ should\ have\ 2.\r\n
+comment6.params=
+comment6.target=void\ testH()
+comment6.text=\r\n\ test\ no\ minow,\r\n\ stomach\ should\ have\ 0\r\n
+numComments=7

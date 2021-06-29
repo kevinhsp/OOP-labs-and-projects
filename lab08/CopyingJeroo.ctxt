@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=cc
+comment0.target=CopyingJeroo(sofia.micro.jeroo.Jeroo)
+comment0.text=\r\n\ Creates\ a\ new\ CopyingJeroo\ object.\r\n\ @param\ cc\ is\ the\ copier\ we\ create\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ Creates\ a\ new\ CopyingJeroo\ object.\r\n
+comment2.params=
+comment2.target=void\ hopToWater()
+comment2.text=\r\n\ Hop\ forward\ until\ we\ reach\ the\ water.\r\n
+comment3.params=
+comment3.target=void\ hop()
+comment3.text=\r\n\ override\ hop\r\n
+comment4.params=direction
+comment4.target=void\ turn(sofia.micro.jeroo.RelativeDirection)
+comment4.text=\r\n\ override\ turn\r\n\ @param\ direction\ is\ the\ direction\ of\ left\ or\ right\r\n
+numComments=5

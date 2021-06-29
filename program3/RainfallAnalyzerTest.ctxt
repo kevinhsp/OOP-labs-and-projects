@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RainfallAnalyzerTest()
+comment0.text=\r\n\ Creates\ a\ new\ WeatherBureauTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testScannerinput()
+comment2.text=\r\n\ this\ will\ test\ input\ scanner\ in\ it\r\n\ test\ whether\ the\ lowest\ station\ id\ is\ true\r\n\ and\ count\ of\ precipation\ in\ lowest\ stations\ month\r\n
+comment3.params=
+comment3.target=void\ testlowest()
+comment3.text=\r\n\ test\ whether\ the\ original\ input\ return\ \r\n\ true\ id\ and\ count\ of\ month\r\n
+comment4.params=
+comment4.target=void\ testLowestMonth()
+comment4.text=\r\n\ Add\ a\ four\ line\ input\ to\ test\ the\ lowest\ is\ true\ or\ not\r\n
+comment5.params=
+comment5.target=void\ testSomething()
+comment5.text=\r\n\ test\ whether\ the\ RainfallAnalyzer\ get\ a\ true\ texttype\r\n
+comment6.params=
+comment6.target=void\ testEmpty()
+comment6.text=\r\n\ test\ when\ Weatherbureau\ is\ empty,\ \r\n\ whether\ it\ will\ return\ null\r\n
+comment7.params=
+comment7.target=void\ testRecordString()
+comment7.text=\r\n\ test\ add\ two\ strings\ whether\ is\ runs\ true\r\n
+numComments=8

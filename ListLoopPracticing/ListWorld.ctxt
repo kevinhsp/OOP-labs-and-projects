@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListWorld()
+comment0.text=\r\n\ Creates\ a\ new\ ListWorld\ object.\r\n
+comment1.params=n
+comment1.target=int\ sumOneToN(int)
+comment1.text=\r\n\ Determines\ the\ sum\ of\ all\ real\ numbers\ between\ 1\ and\r\n\ n,\ inclusively.\r\n\ @param\ n\ The\ last\ digit\ to\ include\ in\ the\ sum\r\n\ @return\ The\ sum\ of\ all\ numbers\ between\ 1\ and\ n\r\n
+comment2.params=items\ match
+comment2.target=java.lang.String\ findFirstOccurrence(java.util.List,\ java.lang.String)
+comment2.text=\r\n\ Finds\ the\ first\ occurrence\ of\ the\ provided\ match\ in\ \r\n\ the\ list\ of\ items.\r\n\ @param\ items\ The\ list\ of\ all\ items\ to\ consider\r\n\ @param\ match\ The\ string\ to\ match\r\n\ @return\ A\ matching\ item,\ if\ a\ match\ is\ found.\ Otherwise,\ null.\r\n
+comment3.params=items\ match
+comment3.target=java.lang.String\ findLastOccurrence(java.util.List,\ java.lang.String)
+comment3.text=\r\n\ Finds\ the\ last\ occurrence\ of\ the\ provided\ match\ in\ \r\n\ the\ list\ of\ items.\r\n\ @param\ items\ The\ list\ of\ all\ items\ to\ consider\r\n\ @param\ match\ The\ string\ to\ match\r\n\ @return\ A\ matching\ item,\ if\ a\ match\ is\ found.\ Otherwise,\ null.\r\n
+comment4.params=numbers
+comment4.target=java.lang.Integer\ findLargest(java.util.List)
+comment4.text=\r\n\ Finds\ the\ largest\ number\ in\ the\ provided\ list\ of\ positive\ numbers\r\n\ @param\ numbers\ A\ list\ of\ positive\ numbers\r\n\ @return\ The\ largest\ number\ in\ the\ list\r\n
+comment5.params=numbers
+comment5.target=java.lang.Integer\ findAverage(java.util.List)
+comment5.text=\r\n\ Finds\ the\ average\ of\ the\ provided\ list\ of\ numbers.\r\n\ @param\ numbers\ A\ list\ of\ numbers\r\n\ @return\ An\ average\ of\ the\ provided\ numbers.\r\n
+numComments=6

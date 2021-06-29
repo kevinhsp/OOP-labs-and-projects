@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Castles()
+comment0.text=\n\ Creates\ a\ new\ Castles\ object.\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\n\ Creates\ the\ lakes/castles.\ To\ remove\ a\ turret,\ simply\n\ comment\ out\ one\ of\ the\ lines\ below\ that's\ adding\ the\n\ turret.\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\n\ Add\ a\ TurretJeroo\ to\ the\ world\ and\ have\ her\n\ patrol\ around\ the\ castle.\n
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PatrolBot()
+comment0.text=\n\ Constructor\ --\ to\ be\ discussed\ later\ in\ the\ class\n
+comment1.params=
+comment1.target=void\ patrolCastle()
+comment2.params=
+comment2.target=void\ walkOneWall()
+comment3.params=
+comment3.target=void\ turnCorner()
+comment3.text=\n\ Pay\ attention\ to\ this\ method.\ See\ how\ the\ bot\ turns\ a\ corner\n\ Compare\ it\ with\ the\ TurretBot's\ turnCorner()\ method\n\ Notice\ the\ use\ of\ the\ keywords\ "this"\ and\ "super"\n
+numComments=4

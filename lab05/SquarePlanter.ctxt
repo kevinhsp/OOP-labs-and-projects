@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=flowersPerside
+comment0.target=SquarePlanter(int)
+comment0.text=\r\n\ Creates\ a\ new\ SquarePlanter\ object.\r\n\ set\ a\ new\ flowersPerside\r\n\ and\ give\ jeroo\ 4\ *\ flowersPerside\r\n\ @param\ flowersPerside\ is\ the\ all\ flowers\ /4\ \ for\ jeroo\r\n
+comment1.params=
+comment1.target=void\ plantOneSide()
+comment1.text=\r\n\ Use\ for\ loop\ for\ flowers\r\n\ plant\ one\ side\ flowers\r\n
+comment2.params=
+comment2.target=void\ plantSquare()
+comment2.text=\r\nUse\ for\ loop\ \r\nPlant\ all\ by\ running\ 4\ times\r\neverytime\ turn\ right\r\n
+comment3.params=
+comment3.target=void\ myProgram()
+comment3.text=\r\n\ test\ myProgram\ with\ just\ plantSquare\r\n
+numComments=4

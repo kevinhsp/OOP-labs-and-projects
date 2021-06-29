@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=NetRemover(int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ Harvester\ facing\ east\ with\ no\ flowers.\r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y-coordinate\ of\ the\ Jeroo's\ location.\r\n
+comment1.params=
+comment1.target=void\ GetAllFlowers()
+comment1.text=\r\n\ Creates\ a\ new\ myprogram\ to\ pick\ up\ flowers.\r\n\ clean\ nets\r\n
+comment2.params=
+comment2.target=void\ harvestRow()
+comment2.text=\r\n\ flowers\ and\ clean\ net\r\n\ since\ all\ flowers\ are\ in\ one\ column\r\n\ pick\ all\ flowers\ first\r\n\ then\ turn\ around\r\n\ when\ face\ net,\ just\ toss\ flowers\r\n\ to\ prevent\ dying,\ when\ there\ is\ not\ flower\r\n\ and\ face\ net,\ then\ turn\ left.\r\n
+numComments=3

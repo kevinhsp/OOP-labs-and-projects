@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=PickFlowers(int,\ int)
+comment0.text=\r\n\ \ \ \ \ Creates\ a\ new\ PickFlowers\ facing\ east\ with\ no\ flowers.\r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y-coordinate\ of\ the\ Jeroo's\ location.\r\n
+comment1.params=
+comment1.target=void\ turnAround()
+comment1.text=\r\n\ First\ degin\ a\ turn\ around\ method\r\n\ this\ help\ save\ steps\r\n
+comment2.params=
+comment2.target=void\ harvestRow()
+comment2.text=\r\n\ a\ method\ to\ pick\ all\ flowers\r\n\ until\ face\ the\ water\r\n\ this\ help\ pick\ up\ flowers\ in\ whole\ line\r\n
+comment3.params=
+comment3.target=void\ pickFirstFlower()
+comment3.text=\r\n\ design\ a\ method\ to\ pick\ first\ flower\ \r\n\ in\ stright\ line\r\n\ then\ pick\ it\r\n\ this\ will\ help\ to\ pick\ one\ flower\r\n
+comment4.params=
+comment4.target=void\ rushEnd()
+comment4.text=\r\n\ design\ a\ method\ to\ hop\ until\ ahead\ water\r\n\ this\ will\ help\ save\ steps.\r\n\ although\ I\ can\ use\ harvestRow();\r\n\ If\ there\ is\ no\ flower,\r\n\ this\ method\ may\ save\ computations\r\n
+numComments=5

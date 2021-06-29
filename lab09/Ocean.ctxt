@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ocean()
+comment0.text=\r\n\ Creates\ a\ new,\ empty\ Ocean\ object.\r\n
+comment1.params=minnows\ sharks
+comment1.target=Ocean(int,\ int)
+comment1.text=\r\n\ Creates\ a\ new\ Ocean\ object\ populated\ with\ sharks\ and\ minnows.\r\n\ @param\ minnows\ The\ number\ of\ minnows\ to\ create.\r\n\ @param\ sharks\ \ The\ number\ of\ sharks\ to\ create.\r\n
+comment2.params=
+comment2.target=void\ addMinnow()
+comment2.text=\r\n\ create\ new\ random\ Minnow\r\n
+comment3.params=
+comment3.target=void\ addShark()
+comment3.text=\r\n\ create\ new\ random\ shark\r\n
+numComments=4

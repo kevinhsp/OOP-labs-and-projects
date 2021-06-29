@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Predator()
+comment0.text=\r\n\ Creates\ a\ new\ Predator\ object.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Take\ one\ step\ closer\ toward\ the\ nearest\ food\ object,\ eating\r\n\ it\ if\ we\ land\ on\ it.\r\n\ if\ not\ intersecting,\ keep\ chasing\ pizza\r\n\ or\ eat,\ and\ create\ a\ new\ random\ pizza.\r\n
+numComments=2

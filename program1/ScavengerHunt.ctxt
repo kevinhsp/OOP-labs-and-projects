@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScavengerHunt()
+comment0.text=\r\n\ Creates\ a\ new\ ScavengerHunt\ object.\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ Create\ my\ own\ program\ solution\r\n\ which\ pick\ all\ the\ flowers\r\n\ and\ don't\ be\ trap\ be\ net\r\n\ finally\ stand\ on\ the\ flower\ in\ the\ middle\ .\r\n\ I\ use\ relatively\ bulky\ codes\ to\ aviod\ nets\r\n\ use\ some\ methods\ to\ pick\ flowers\r\n
+numComments=2

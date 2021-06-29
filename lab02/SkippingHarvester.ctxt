@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=SkippingHarvester(int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ PlantingHarvester\ object.\r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y-coordinate\ of\ the\ Jeroo's\ location..\r\n
+comment1.params=
+comment1.target=void\ hop2AndPick()
+comment1.text=\r\n\ Turn\ the\ Harvester\ hop\ forward\ \r\n\ and\ then\ pick\ a\ flower,\ \r\n\ direction.\r\n\r\n\ @precondition\ \ None.\r\n\r\n\ @postcondition\ The\ Harvester\ hop\ and\ pick.\r\n\ @postcondition\ The\ Harvester\ hop.\r\n
+numComments=2

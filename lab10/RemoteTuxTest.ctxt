@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RemoteTuxTest()
+comment0.text=\r\n\ Creates\ a\ new\ RemoteTuxTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=commands
+comment2.target=RemoteTux\ newTuxWithCommands(java.lang.String)
+comment2.text=\r\n\ This\ helper\ method\ takes\ a\ string\ of\ command\ words\ as\ an\ argument,\r\n\ uses\ them\ to\ set\ the\ contents\ of\ the\ built-in\ scanner\ in\ this\ test\r\n\ case,\ and\ then\ creates\ a\ RemoteTux\ object\ using\ that\ scanner.\r\n\ \r\n\ @param\ commands\ The\ string\ of\ commands\ to\ use\ as\ the\ scanner\ contents.\r\n\ @return\ a\ new\ RemoteTux\ object\ created\ using\ a\ scanner\ connected\r\n\ to\ the\ provided\ string\ of\ commands.\r\n
+comment3.params=
+comment3.target=void\ testForward()
+comment3.text=\r\n\ Test\ Tux\ with\ a\ scanner\ containing\ three\ "forward"\ commands.\r\n
+numComments=4

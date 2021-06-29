@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PatrolJeroo()
+comment0.text=\n\ Default\ Constructor\ to\ Create\ a\ new\ PatrolJeroo\ object.\n
+comment1.params=
+comment1.target=void\ patrolCastle()
+comment1.text=\n\ Patrol\ around\ the\ entire\ castle.\n
+comment2.params=
+comment2.target=void\ patrolWall()
+comment2.text=\n\ Patrol\ along\ one\ wall.\n
+comment3.params=
+comment3.target=void\ turnCorner()
+comment3.text=\n\ Patrol\ around\ the\ corner.\n
+numComments=4

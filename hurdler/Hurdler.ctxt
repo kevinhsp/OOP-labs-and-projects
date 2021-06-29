@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hurdler()
+comment0.text=\r\n\ Creates\ a\ new\ Hurdler\ object.\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ Runs\ across\ the\ south\ shore,\ hurdling\ any\ lines\ of\ nets\r\n\ it\ encounters,\ until\ it\ reaches\ the\ east\ shore.\r\n
+comment2.params=
+comment2.target=void\ jumpHurdle()
+comment2.text=\r\n\ Hurdle\ over\ a\ vertical\ line\ of\ nets\ touching\ the\ south\r\n\ shore.\r\n
+comment3.params=
+comment3.target=void\ followNet()
+comment3.text=\r\n\ Follow\ along\ a\ line\ of\ nets\ to\ the\ jeroo's\ right,\ until\r\n\ either\ there\ are\ no\ more\ nets\ to\ follow,\ or\ the\ jeroo\r\n\ is\ blocked\ by\ water\ ahead.\r\n
+comment4.params=
+comment4.target=void\ overTheTop()
+comment4.text=\r\n\ Cross\ "over\ the\ top"\ of\ the\ hurdle\ (the\ line\ of\ nets)\ so\r\n\ that\ the\ jeroo\ can\ follow\ the\ right\ side\ of\ the\ line\ of\ nets\r\n\ back\ down\ to\ the\ south\ shore.\r\n
+numComments=5

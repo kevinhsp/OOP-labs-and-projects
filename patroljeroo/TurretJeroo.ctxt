@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TurretJeroo()
+comment0.text=\n\ Creates\ a\ new\ TurretJeroo\ object.\n
+comment1.params=
+comment1.target=void\ turnCorner()
+comment1.text=\n\ Patrol\ around\ a\ corner\ that\ has\ a\ turret.\n
+numComments=2

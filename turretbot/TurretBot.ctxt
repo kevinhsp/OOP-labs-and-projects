@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TurretBot()
+comment1.params=
+comment1.target=void\ turnCorner()
+comment1.text=\n\ The\ only\ difference\ between\ a\ PatrolBot\ and\ a\ TurretBot\ is\ in\ how\ they\ turn\ corners.\n\ Here,\ we\ define\ turnCorner()\ method\ for\ the\ TurretBot\ (named\ turry)\n\ Notice\ how\ we\ can\ use\ all\ other\ methods\ inherited\ from\ the\ PatrolBot\n\ Also\ notice\ the\ use\ of\ the\ keywords\ "this"\ and\ "super"\ \n
+numComments=2

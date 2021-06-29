@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HungryJeroo()
+comment0.text=\r\n\ This\ default\ constructor\ Creates\ a\ new\ HungryJeroo\ object.\r\n
+comment1.params=
+comment1.target=void\ harvest()
+comment1.text=\r\n\ First\ write\ a\ way\ to\ get\ all\ the\ flowers\ in\ a\ line\r\n\ Then\ move\ to\ the\ next\ line\r\n\ Repeat\ till\ all\ flowers\ are\ picked\r\n
+numComments=2

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shark()
+comment0.text=\r\n\ Creates\ a\ new\ Shark\ object.\r\n
+comment1.params=actor
+comment1.target=double\ distanceTo(sofia.micro.Actor)
+comment1.text=\r\n\ Calculate\ the\ distance\ to\ another\ actor.\r\n\ \r\n\ @param\ actor\ The\ other\ actor.\r\n\ @return\ The\ distance\ from\ this\ shark\ to\ the\ other\ actor.\r\n
+comment2.params=
+comment2.target=Minnow\ nearestMinnow()
+comment2.text=\r\n\ Find\ the\ minnow\ nearest\ to\ this\ shark.\r\n\ \r\n\ @return\ The\ minnow\ that\ is\ closest,\ if\ there\ is\ one,\ or\r\n\ \ \ \ \ \ \ \ \ null\ if\ there\ are\ no\ more\ minnows\ in\ the\ ocean.\r\n
+comment3.params=minnow
+comment3.target=void\ eat(Minnow)
+comment3.text=\r\n\ Eat\ a\ minnow\ by\ removing\ it\ from\ the\ world\ and\ adding\ it\r\n\ to\ this\ shark's\ stomach\ contents.\r\n\ \r\n\ @param\ minnow\ The\ minnow\ to\ eat.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Sharks\ move\ towards\ the\ nearest\ minnow,\ eating\ it\ if\ they\r\n\ reach\ it.\r\n
+comment5.params=
+comment5.target=java.util.List\ getStomachContents()
+comment5.text=\r\n\ list\ for\ stomach\ contents\r\n\ @return\ the\ stomach\ list\r\n
+numComments=6

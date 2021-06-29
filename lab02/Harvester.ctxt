@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Harvester(int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ Harvester\ facing\ east\ with\ no\ flowers.\r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y-coordinate\ of\ the\ Jeroo's\ location.\r\n
+comment1.params=
+comment1.target=void\ hopAndPick()
+comment1.text=\r\n\ Turn\ the\ Harvester\ hop\ forward\ and\ then\ pick\ a\ flower\r\n\ direction.\r\n\r\n\ @precondition\ \ None.\r\n\r\n\ @postcondition\ The\ Harvester\ pop.\r\n\ @postcondition\ The\ Harvester\ pick.\r\n
+comment2.params=
+comment2.target=void\ hop2AndPick()
+comment2.text=\r\n\ Turn\ the\ Harvester\ hop\ forward\ and\ then\ pick\ a\ flower\ \r\n\ twice\r\n\ direction.\r\n\r\n\ @precondition\ \ None.\r\n\r\n\ @postcondition\ The\ Harvester\ hopAndPick.\r\n\ @postcondition\ The\ Harvester\ hopAndPick.\r\n
+comment3.params=
+comment3.target=void\ harvestRow()
+comment3.text=\r\n\ Turn\ the\ Harvester\ hop\ forward\ and\ then\ pick\ a\ flower\ in\ a\ row\r\n\ direction.\r\n\r\n\ @precondition\ \ None.\r\n\r\n\ @postcondition\ The\ Harvester\ hopAndPick\ twice.\r\n\ @postcondition\ The\ Harvester\ hopAndPick\ twice.\r\n
+numComments=4

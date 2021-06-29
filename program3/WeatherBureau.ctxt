@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WeatherBureau()
+comment0.text=\r\n\ Creates\ a\ new\ WeatherBureau\ object.\r\n
+comment1.params=text
+comment1.target=void\ recordDailySummary(java.lang.String)
+comment1.text=\r\n\ @param\ text\ is\ a\ text\ input\r\n\ record\ a\ string\ text\ into\ Map\r\n
+comment2.params=input
+comment2.target=void\ recordDailySummaries(java.util.Scanner)
+comment2.text=\r\n\ @param\ input\ is\ a\ scanner\ input\r\n\ record\ a\ scanner\ input\ into\ Map\r\n
+comment3.params=identifier
+comment3.target=WeatherStation\ getStation(java.lang.String)
+comment3.text=\r\n\ @param\ identifier\ the\ id\ of\ station\r\n\ @return\ the\ weatherStation\ with\ identifier\r\n
+comment4.params=month
+comment4.target=WeatherStation\ lowestStation(int)
+comment4.text=\r\n\ @param\ month\ is\ the\ month\ we\ want\ to\ put\ in\r\n\ @return\ the\ lowestStation\ for\ input\ month.\r\n\ Create\ a\ list\ including\ all\ the\ weather\ station\r\n\ assume\ the\ first\ one\ the\ lowest\r\n\ and\ compare\ one\ by\ one\r\n
+comment5.params=
+comment5.target=WeatherStation\ lowestStation()
+comment5.text=\r\n\ @return\ the\ lowestStation\ for\ all\ month.\r\n\ Create\ a\ list\ including\ all\ the\ weather\ station\r\n\ assume\ the\ first\ one\ the\ lowest\r\n\ and\ compare\ one\ by\ one\r\n\ using\ getAvgForMonth(getLowestMonth)\r\n\ just\ choose\ the\ month\ with\ lowest\r\n
+numComments=6

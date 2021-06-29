@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MazeRunner()
+comment0.text=\r\n\ Creates\ a\ new\ MazeRunner\ object.\r\n\ inheritant\ the\ Jeroo\ class\r\n\ set\ MazeRunner\ havs\ 15\ flowers\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ Firstly,\r\n\ For\ handle\ flowers\ and\ nets,\r\n\ just\ seeflower\ under\ feet---pick\ it,\r\n\ seenet\ ahead\ ---toss\ it\ and\ hop\r\n\ For\ Navigation\ it\ is\ relatively\ complex,\r\n\ I\ devide\ it\ to\ 3\ situations\:\r\n\ First\ one\ is\ seesWater\ Ahead\r\n\ \ \ \ \ then\ if\ there\ is\ water\ left\ \r\n\ \ \ \ \ \ \ \ no\ water\ right\ then\ jeroo\ turn\ right\r\n\ \ \ \ \ \ \ \ if\ there\ is\ water\ right\ jeroo\ turn\ around\r\n\ \ \ \ \ else\ if\ there\ is\ water\ right\r\n\ \ \ \ \ \ \ \ (because\ we\ checked\ if\ water\ left\ before)\r\n\ \ \ \ \ \ \ \ so\ jeroo\ just\ turn\ left\r\n\ \ \ \ \ else\ (which\ means\ water\ is\ only\ ahead)\r\n\ \ \ \ \ \ \ \ \ jeroo\ turn\ right\r\n\ Second\ is\ seesWater\ Left\r\n\ because\ we\ have\ considered\ all\ consequences\r\n\ of\ water\ ahead\r\n\ we\ just\ need\ to\ consider\ both\ water\ left\ and\ right\r\n\ if\ it\ is,\ jeroo\ hop\r\n\ else\ jeroo\ turn\ right\r\n\ same,\ we\ considered\ all\ other\ consequences\ except\r\n\ jeroo\ only\ seewater\ right\r\n\ if\ it\ is\ then\ jeroo\ will\ go\ hop\r\n\ One\ important\ thing\r\n\ everytime\ when\ jeroo\ will\ hop,\r\n\ we\ will\ check\ net\ head\r\n
+comment2.params=
+comment2.target=void\ cleanNet()
+comment2.text=\r\n\ this\ is\ to\ check\ whether\ sees\ net\ ahead\r\n\ if\ not\ just\ hop\r\n\ else\ toss\ and\ hop\r\n
+numComments=3

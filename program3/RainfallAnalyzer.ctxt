@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=RainfallAnalyzer(java.util.Scanner)
+comment0.text=\r\n\ Creates\ a\ new\ RainAnalyzer\ that\ takes\ in\ a\ Scanner\ Input\r\n\ setting\ size\ as\ (\ 8,\ 5,\ 72)\r\n\ \r\n\ @param\ input\ is\ a\ scanner\r\n
+comment1.params=
+comment1.target=RainfallAnalyzer()
+comment1.text=\r\n\ Creates\ a\ new\ RainfallAnalyzer\ object.\r\n
+comment2.params=
+comment2.target=WeatherBureau\ getBureau()
+comment2.text=\r\n\ @return\ the\ weatherBureau\r\n
+comment3.params=
+comment3.target=sofia.graphics.TextShape\ getText()
+comment3.text=\r\n\ @return\ a\ texshape\ \r\n\ which\ represent\ the\ lowestStation\r\n\ lowestMonth\ and\ lowestRainFall\ with\ 2\ decimals\r\n
+comment4.params=
+comment4.target=WeatherStation\ getStation()
+comment4.text=\r\n\ @return\ the\ weatherstation\r\n
+numComments=5

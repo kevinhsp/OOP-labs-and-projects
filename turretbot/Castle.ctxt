@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Castle()
+comment0.text=\n\ Creates\ a\ new\ Castle\ object.\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\n\ Prepares\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\n\ You\ are\ going\ to\ work\ with\ me\ to\ create\ two\ bots\ to\ patrol\ the\ two\ castles\n\ In\ the\ method\ below,\ you\ will\:\n\ \ \ 1.\ Create\ 2\ bots\:\ 1\ PatrolBot\ and\ 1\ TurretBot\n\ \ \ 2.\ Add\ those\ two\ bots\ in\ the\ grid\ position\ that\ you\ see\ on\ the\ slide\ \n\ \ \ 3.\ Ask\ each\ of\ the\ bots\ to\ patrol\ the\ castle\n
+numComments=3
